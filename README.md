@@ -5,12 +5,10 @@ JavaScript is the programming language of the Web. JavaScript is easy to learn. 
 <summary>Click Here </summary>
 
 ### Math 
-#### Math.round(x)	Returns x rounded to its nearest integer
-#### Math.ceil(x)	Returns x rounded up to its nearest integer
-#### Math.floor(x)	Returns x rounded down to its nearest integer
-#### Math.trunc(x)	Returns the integer part of x (new in ES6)
-
-
+- Math.round(x)	Returns x rounded to its nearest integer
+- Math.ceil(x)	Returns x rounded up to its nearest integer
+- Math.floor(x)	Returns x rounded down to its nearest integer
+- Math.trunc(x)	Returns the integer part of x (new in ES6)
 </details>
 
 - math
