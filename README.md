@@ -30,5 +30,5 @@ __text bol__
 
 - [x] text1
 - [x] text1
-- [x] text1
+- [] text1
 
