@@ -9,12 +9,16 @@
 </head>
 
 <body>
-    <h2>javascript Math</h2>
+    <h2>javascript problem solving</h2>
+    <p id="number"></p>
 
     <script type="text/javascript">
-        console.log('javascript');
-        let m = Math.round(4.4);
-        console.log(m);
+        function randomNumber(min, max) {
+            return Math.floor(Math.random() * (max - min + 1) + min);
+
+        }
+
+        document.getElementById('number').innerHTML = (randomNumber(1, 6));
     </script>
 </body>
 
