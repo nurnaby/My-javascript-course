@@ -32,4 +32,22 @@ __text bol__
 - [x] text1
 - [x] text1
 - [] text1
+## Class 2 Overview
+<details>
+<summary>Click Here </summary>
+
+__Problem solving__
+1. Random number generate(1 to 6)
+2. student name sort ascending way
+3. number array sort small to large
+4. Find leap yary
+5. Find vowel letter 
+6. Find dublicate number in a array
+
+
+
+
+
+</details>
+
 
