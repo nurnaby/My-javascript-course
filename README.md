@@ -1,5 +1,7 @@
+
 # My-javascript-course
 JavaScript is the programming language of the Web. JavaScript is easy to learn. This tutorial will teach you JavaScript from basic to advanced. Start learning
+<img src='./img/javascript.jpg'>
 ## Class 1 Overview
 <details>
 <summary>Click Here </summary>
