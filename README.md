@@ -11,4 +11,7 @@ JavaScript is the programming language of the Web. JavaScript is easy to learn. 
 - Math.trunc(x)	Returns the integer part of x (new in ES6)
 </details>
 
-- math
+__text bol__
+
+`this is nur naby`
+
