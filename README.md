@@ -14,4 +14,12 @@ JavaScript is the programming language of the Web. JavaScript is easy to learn. 
 __text bol__
 
 `this is nur naby`
+```html
+<html>
+ <head>
+ </head>
+ <body>
+ </body>
+</html>
+```
 
