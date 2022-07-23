@@ -43,11 +43,18 @@ __Problem solving__
 4. Find leap yary
 5. Find vowel letter 
 6. Find dublicate number in a array
+</details>
 
+## Class 3 Overview
+<details>
+<summary>Click Here </summary>
 
-
-
-
+__Boolean Values__
+Very often, in programming, you will need a data type that can only have one of two values, like
+- YES / NO
+- ON / OFF
+- TRUE / FALSE
+For this, JavaScript has a Boolean data type. It can only take the values true or false.
 </details>
 
 
