@@ -49,7 +49,7 @@ __Problem solving__
 <details>
 <summary>Click Here </summary>
 
-__Boolean Values__
+__Boolean Values__  
 Very often, in programming, you will need a data type that can only have one of two values, like
 - YES / NO
 - ON / OFF
