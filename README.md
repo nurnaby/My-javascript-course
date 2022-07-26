@@ -86,10 +86,20 @@ __Concat__
         document.write("My name is " + fristName + "sohag .");
 
 ```
-
-
-
-
 </details>
 
+## Class 5(javascript library funciton ) Overview
+<details>
+<summary>Click Here </summary>
+
+__library function__  
+
+- length
+- CharAt
+- conCat
+- toupperCase
+- toLowerCase
+- slice
+
+</details>
 
