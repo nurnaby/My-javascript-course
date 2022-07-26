@@ -53,8 +53,43 @@ __Boolean Values__
 Very often, in programming, you will need a data type that can only have one of two values, like
 - YES / NO
 - ON / OFF
-- TRUE / FALSE  
+- TRUE / FALSE
 For this, JavaScript has a Boolean data type. It can only take the values true or false.
+</details>
+
+## Class 4(Data type,variable, ) Overview
+<details>
+<summary>Click Here </summary>
+
+__Data Type__  
+
+- String
+- Number
+- Object
+- Boolean
+
+__variable Type__  
+4 Ways to Declare a JavaScript Variable:
+- Using var
+- Using let
+- Using const
+- Using nothing
+__concat__
+
+`javascript `
+```javascript
+
+       let fristName = "nur naby";
+        let lestName = " sohag";
+
+        document.write(fristName + lestName);
+        document.write("My name is " + fristName + "sohag .");
+
+```
+
+
+
+
 </details>
 
 
