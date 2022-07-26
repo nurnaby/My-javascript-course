@@ -57,7 +57,7 @@ Very often, in programming, you will need a data type that can only have one of 
 For this, JavaScript has a Boolean data type. It can only take the values true or false.
 </details>
 
-## Class 4(Data type,variable, ) Overview
+## Class 4(Data type,variable,Concat ) Overview
 <details>
 <summary>Click Here </summary>
 
@@ -74,7 +74,7 @@ __variable Type__
 - Using let
 - Using const
 - Using nothing  
-__concat__
+__Concat__
 
 `javascript `
 ```javascript
