@@ -73,7 +73,7 @@ __variable Type__
 - Using var
 - Using let
 - Using const
-- Using nothing
+- Using nothing  
 __concat__
 
 `javascript `
