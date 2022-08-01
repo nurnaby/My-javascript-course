@@ -105,3 +105,21 @@ __library function__
 
 </details>
 
+## Class 6(for loop ) Overview
+<details>
+<summary>Click Here </summary>
+
+__for loop__  
+
+`javascript `
+```javascript
+
+        for (var x = 1; x <= 9; x++) {
+            document.write(x);
+        }
+
+```
+
+
+</details>
+
