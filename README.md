@@ -190,3 +190,24 @@ __Traditional function__
 ```
 </details>
 
+## Class 10( Loop in Array) Overview
+<details>
+<summary>Click Here </summary>
+
+__Traditional function__  
+`javascript `
+```javascript
+    //IIFES---(Immediately Invokeable Function Expressions)
+     (function dispaly() {
+            console.log("hello function");
+        })();
+
+         // Funciton Espression
+        const dispoay2 = function displayMes() {
+            console.log('hi i am ');
+        }
+        dispoay2();
+
+```
+</details>
+
