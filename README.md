@@ -113,7 +113,7 @@ __for loop__
 
 `javascript `
 ```javascript
-
+        // for loop syntex
         for (var x = 1; x <= 9; x++) {
             document.write(x);
         }
