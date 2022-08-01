@@ -9,26 +9,26 @@
 </head>
 
 <body>
-    <h2>JavaScript funciton </h2>
+    <h2>JavaScrip IIFEs</h2>
+
     <p id="demo"></p>
 
 
 
     <script type="text/javascript">
-        //sum function 
-        function sum(num1, num2) {
-            var sum = num1 + num2;
-            return sum;
+        //IIFES---(Immediately Invokeable Function Expressions)
+        (function dispaly() {
+            console.log("hello function");
+        })();
+        (function sum(num1, num2) {
+            var result = num1 + num2;
+            document.write(result);
+        })(5, 4);
+        // Funciton Espression
+        const dispoay2 = function displayMes() {
+            console.log('hi i am ');
         }
-        console.log(sum(4, 4));
-
-
-        //substraction function
-        function sub(num1, num2) {
-            $result = num1 - num2;
-            document.write("substractin:" + $result + "<br>");
-        }
-        sub(10, 5);
+        dispoay2();
     </script>
 </body>
 

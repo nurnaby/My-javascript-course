@@ -132,33 +132,6 @@ __for loop__
 ```
 </details>
 
-## Class 6(for loop while loop ) Overview
-<details>
-<summary>Click Here </summary>
-
-__for loop__  
-`javascript `
-```javascript
-        // for loop syntex
-        for (var x = 1; x <= 9; x++) {
-            document.write(x);
-        }
-
-         i = 1;
-        var sum2 = 0;
-        while (i <= 50) {
-            if (i % 3 == 0 && i % 5 == 0) {
-                sum2 = sum2 + i;
-                document.write(i);
-            }
-            i = i + 1;
-
-        }
-        document.write(sum2);
-
-```
-</details>
-
 ## Class 7(Ternary operator ) Overview
 <details>
 <summary>Click Here </summary>
@@ -192,6 +165,27 @@ __Traditional function__
             document.write("substractin:" + $result + "<br>");
         }
         sub(10, 5);
+
+```
+</details>
+
+## Class 9( function ) Overview
+<details>
+<summary>Click Here </summary>
+
+__Traditional function__  
+`javascript `
+```javascript
+    //IIFES---(Immediately Invokeable Function Expressions)
+     (function dispaly() {
+            console.log("hello function");
+        })();
+
+         // Funciton Espression
+        const dispoay2 = function displayMes() {
+            console.log('hi i am ');
+        }
+        dispoay2();
 
 ```
 </details>
