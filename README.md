@@ -105,12 +105,11 @@ __library function__
 
 </details>
 
-## Class 6(for loop ) Overview
+## Class 6(for loop while loop ) Overview
 <details>
 <summary>Click Here </summary>
 
 __for loop__  
-
 `javascript `
 ```javascript
         // for loop syntex
@@ -118,8 +117,59 @@ __for loop__
             document.write(x);
         }
 
+         i = 1;
+        var sum2 = 0;
+        while (i <= 50) {
+            if (i % 3 == 0 && i % 5 == 0) {
+                sum2 = sum2 + i;
+                document.write(i);
+            }
+            i = i + 1;
+
+        }
+        document.write(sum2);
+
 ```
+</details>
 
+## Class 6(for loop while loop ) Overview
+<details>
+<summary>Click Here </summary>
 
+__for loop__  
+`javascript `
+```javascript
+        // for loop syntex
+        for (var x = 1; x <= 9; x++) {
+            document.write(x);
+        }
+
+         i = 1;
+        var sum2 = 0;
+        while (i <= 50) {
+            if (i % 3 == 0 && i % 5 == 0) {
+                sum2 = sum2 + i;
+                document.write(i);
+            }
+            i = i + 1;
+
+        }
+        document.write(sum2);
+
+```
+</details>
+
+## Class 7(Ternary operator ) Overview
+<details>
+<summary>Click Here </summary>
+
+__for loop__  
+`javascript `
+```javascript
+        var num = Number(prompt("Enter your number :"));
+        var reault = num > 0 ? "positive" : "negative";
+        document.write(reault);
+
+```
 </details>
 
