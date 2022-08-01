@@ -197,16 +197,14 @@ __Traditional function__
 __Traditional function__  
 `javascript `
 ```javascript
-    //IIFES---(Immediately Invokeable Function Expressions)
-     (function dispaly() {
-            console.log("hello function");
-        })();
+     let names = ["sohag", "atik", "manik", "jakir", "kabir"];
+        var number = [1, 2];
+        var sum = 0;
+        for (let x = 0; x <= 5; x++) {
+            console.log(names[x]);
 
-         // Funciton Espression
-        const dispoay2 = function displayMes() {
-            console.log('hi i am ');
+
         }
-        dispoay2();
 
 ```
 </details>
