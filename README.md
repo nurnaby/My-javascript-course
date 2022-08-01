@@ -194,7 +194,7 @@ __Traditional function__
 <details>
 <summary>Click Here </summary>
 
-__Traditional function__  
+__Loop in Array__  
 `javascript `
 ```javascript
      let names = ["sohag", "atik", "manik", "jakir", "kabir"];
