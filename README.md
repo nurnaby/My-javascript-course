@@ -163,12 +163,35 @@ __for loop__
 <details>
 <summary>Click Here </summary>
 
-__for loop__  
+__Ternary operator__  
 `javascript `
 ```javascript
         var num = Number(prompt("Enter your number :"));
         var reault = num > 0 ? "positive" : "negative";
         document.write(reault);
+
+```
+</details>
+
+## Class 8(Traditional function ) Overview
+<details>
+<summary>Click Here </summary>
+
+__Traditional function__  
+`javascript `
+```javascript
+     //sum function 
+        function sum(num1, num2) {
+            var sum = num1 + num2;
+            return sum;
+        }
+        console.log(sum(4, 4));
+        //substraction function
+        function sub(num1, num2) {
+            $result = num1 - num2;
+            document.write("substractin:" + $result + "<br>");
+        }
+        sub(10, 5);
 
 ```
 </details>
