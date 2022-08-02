@@ -7,6 +7,7 @@ let playearsInfo = [
     ["manik", 22],
 ]
 
+
 function highestScore(playearsInfo) {
     let max = playearsInfo[0][1];
     let highestScoress = playearsInfo[0][0];

@@ -290,3 +290,15 @@ console.log(high);
 ```
 </details>
 
+## Class 14( Object) Overview
+<details>
+<summary>Click Here </summary>
+
+`javascript `
+```javascript
+     
+
+```
+</details>
+
+
