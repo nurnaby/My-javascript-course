@@ -213,9 +213,18 @@ __Loop in Array__
 <details>
 <summary>Click Here </summary>
 
-__Array Methods__  
+__Array Methods__ 
+
+- push() // add data in array last
+- pop()// remove data in array last
+- shift() //remove data in array frist
+- unshift() // add data in arrary frist 
+- splice()
+- slice()
+- sort()
 `javascript `
 ```javascript
+
     
 
 ```
