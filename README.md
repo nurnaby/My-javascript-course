@@ -296,7 +296,13 @@ console.log(high);
 
 `javascript `
 ```javascript
-     
+     let student = {//create object
+    name: "sohag",
+    age: 34,
+    city: "bogra"
+}
+
+console.log(student.name);// print object
 
 ```
 </details>
