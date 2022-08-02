@@ -258,3 +258,35 @@ console.log(maxNumber);
 ```
 </details>
 
+## Class 13( Two dimensoinal Array) Overview
+<details>
+<summary>Click Here </summary>
+
+`javascript `
+```javascript
+      // dispaly max number
+   let playearsInfo = [
+    ["atik", 99],
+    ["jakir", 77],
+    ["sohag", 55],
+    ["asik", 44],
+    ["polash", 33],
+    ["manik", 22],
+]
+function highestScore(playearsInfo) {
+    let max = playearsInfo[0][1];
+    let highestScoress = playearsInfo[0][0];
+    for (x = 1; x < playearsInfo.length; x++) {
+        if (max < playearsInfo[x][1]) {
+            highestScoress = playearsInfo[x][0];
+        }
+    }
+    return highestScoress;
+
+}
+let high = highestScore(playearsInfo)
+console.log(high);
+
+```
+</details>
+
