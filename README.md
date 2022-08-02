@@ -209,7 +209,7 @@ __Loop in Array__
 ```
 </details>
 
-## Class 10( Array Methods) Overview
+## Class 11( Array Methods) Overview
 <details>
 <summary>Click Here </summary>
 
