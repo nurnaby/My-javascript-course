@@ -224,7 +224,8 @@ __Array Methods__
 - sort()
 `javascript `
 ```javascript
-
+        var pushNames = names.splice(2, 0, "shoag", "jabad");
+        console.log(names);
     
 
 ```
