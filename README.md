@@ -307,4 +307,20 @@ console.log(student.name);// print object
 ```
 </details>
 
+## Class 15( Dom select) Overview
+<details>
+<summary>Click Here </summary>
+
+`javascript `
+```javascript
+//id selector
+ document.getElementById("heding").innerHTML = "hello";
+ //tage selector
+ document.getElementsByTagName("h2")[1].innerHTML = "hi";
+
+
+
+```
+</details>
+
 
