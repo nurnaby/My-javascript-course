@@ -307,7 +307,7 @@ console.log(student.name);// print object
 ```
 </details>
 
-## Class 15( Dom select) Overview
+## Class 15( Dom select and query selector) Overview
 <details>
 <summary>Click Here </summary>
 
@@ -317,10 +317,17 @@ console.log(student.name);// print object
  document.getElementById("heding").innerHTML = "hello";
  //tage selector
  document.getElementsByTagName("h2")[1].innerHTML = "hi";
-
-
+//  query selector 
+ document.querySelector("#pid").innerHTML = "working on";
 
 ```
+</details>
+
+## Class 16( onclike Event ) Overview
+<details>
+<summary>Click Here </summary>
+
+- onclick Event
 </details>
 
 
