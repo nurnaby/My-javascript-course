@@ -27,3 +27,6 @@ mydev1.appendChild(heding4);
 // var heding1 = document.getElementsByTagName("h1" [0]);
 var heding1 = document.getElementById('h_one');
 myDve.removeChild(heding1);
+
+
+var heding0 = document.getElementBy
