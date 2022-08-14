@@ -1,3 +1,4 @@
+// Math function 
 var n = 5.7;
 // Math.round(x) returns the nearest integer: 
 console.log(Math.round(n)) + "</br>"
@@ -13,3 +14,13 @@ var ran = Math.floor(Math.random() * 6 + 1)
 console.log(ran)
 
 // console.log(Math.sign(n))
+
+
+// Math function end
+
+
+// Date function start
+var dates = new Date()
+console.log(dates.getDate())
+console.log(dates.getFullYear())
+    // Date function end
