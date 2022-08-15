@@ -34,5 +34,8 @@ switch (day) {
         break
     case 2:
         console.log("Tuesday")
+        break
+    case 3:
+        console.log("Wednesday")
 
 }
