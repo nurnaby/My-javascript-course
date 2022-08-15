@@ -355,20 +355,23 @@ console.log(Math.floor(n)) + "</br>"
 console.log(Math.sign(n))
     // Returns a random integer from 1 to 6:
 var ran = Math.floor(Math.random() * 6 + 1)
-
 console.log(ran)
-
 // console.log(Math.sign(n))
-
-
 // Math function end
-
-
 // Date function start
 var dates = new Date()
 console.log(dates.getDate())
 console.log(dates.getFullYear())
     // Date function end
+```
+</details>
+
+## Class 18( if,ifelse,switch) Overview
+<details>
+<summary>Click Here </summary>
+
+`javascript `
+```javascript
 
 ```
 </details>
