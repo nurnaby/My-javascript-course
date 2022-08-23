@@ -10,7 +10,10 @@ Array.from(program).map((program) => {
 })
 
 function changeHendeler(e) {
-    console.log("checked");
+    if (e.target.checked) {
+
+        console.log("checked");
+    }
 }
 
 // input.addEventListener("change", changeHeanger)

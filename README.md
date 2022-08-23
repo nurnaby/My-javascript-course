@@ -454,4 +454,19 @@ console.log(student_a)
 ```
 </details>
 
+## Class 24(DOM Event submit ) Overview
+<details>
+<summary>Click Here </summary>
+
+### submit Event
+
+- <select>
+- <textarea> 
+`javascript `
+```javascript
+
+
+```
+</details>
+
 
