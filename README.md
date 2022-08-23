@@ -459,6 +459,8 @@ console.log(student_a)
 <summary>Click Here </summary>
 
 ### submit Event
+### Media Event
+- canplay,play,playing,pause,progress,ended,volumechange,waiting
 
 - <select>
 - <textarea> 
