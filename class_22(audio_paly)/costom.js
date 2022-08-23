@@ -2,14 +2,8 @@
 
      document.querySelectorAll(".audio_btn")[i].addEventListener("click", function() {
          var text = this.innerHTML;
-
          audioPlay(text);
-
-
-
          console.log(text);
-
-
      });
  }
 
