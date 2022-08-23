@@ -1,24 +1,17 @@
-// var input = document.querySelector('input');
-// input.addEventListener("change", changeHeanger)
+const form = document.querySelector("form");
+const userName = form.querySelector("div #unserName");
+const userEmail = form.querySelector("div #email");
+const userPass = form.querySelector("div #pass");
 
-// function changeHeanger(e) {
-//     console.log(e.target.value);
-// }
-var program = document.querySelectorAll("input[name=program]");
-Array.from(program).map((program) => {
-    program.addEventListener("change", changeHendeler);
-})
+form.addEventListener('submit', formHendler);
 
-function changeHendeler(e) {
-    if (e.target.checked) {
 
-        console.log("checked");
-    }
+function formHendler(e) {
+    e.preventDefault()
+    userInfo = {
+        name: console.log(unserName.value),
+        email: console.log(email.value),
+        pass: console.log(pass.value),
+    };
+    console.log(userInfo)
 }
-
-// input.addEventListener("change", changeHeanger)
-
-
-// function changeHeanger(e) {
-//     console.log("change");
-// }
