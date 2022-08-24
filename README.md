@@ -471,4 +471,30 @@ console.log(student_a)
 ```
 </details>
 
+## Class 24(Browser Object Model ) Overview
+<details>
+<summary>Click Here </summary>
+
+`javascript `
+```javascript
+
+//href
+var p1 = locationDev.children[0];
+p1.textContent = location.href;
+
+//hostname
+var p2 = locationDev.children[1];
+p2.textContent = location.hostname;
+
+//hostname
+var p3 = locationDev.children[2];
+p3.textContent = location.port;
+
+//hostname
+var p4 = locationDev.children[3];
+p4.textContent = location.pathname;
+
+```
+</details>
+
 
