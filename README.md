@@ -471,7 +471,8 @@ console.log(student_a)
 ```
 </details>
 
-## Class 24(Browser Object Model ) Overview
+
+## Class 25(Browser Object Model ) Overview
 <details>
 <summary>Click Here </summary>
 
@@ -495,6 +496,16 @@ var p4 = locationDev.children[3];
 p4.textContent = location.pathname;
 
 ```
+</details>
+
+
+## Class 26(Browser Object Model pupup Boxes) Overview
+<details>
+<summary>Click Here </summary>
+
+`javascript `
+```javascript
+
 </details>
 
 
