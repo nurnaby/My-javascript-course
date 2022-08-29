@@ -508,4 +508,16 @@ p4.textContent = location.pathname;
 
 </details>
 
+## Class 27(Timeout and Timeinterval function) Overview
+<details>
+<summary>Click Here </summary>
+
+`javascript `
+```javascript
+ //  setTimeout(() => {
+//      console.log("hi");
+//  }, 6000)
+
+</details>
+
 
