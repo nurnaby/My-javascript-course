@@ -498,17 +498,17 @@ p4.textContent = location.pathname;
 ```
 </details>
 
-
-## Class 26(Browser Object Model pupup Boxes) Overview
+## Class 26(Browser Object Model pupup Boxes ) Overview
 <details>
 <summary>Click Here </summary>
 
 `javascript `
 ```javascript
 
+```
 </details>
 
-## Class 27(Timeout and Timeinterval function) Overview
+## Class 27(Timeout and Timeinterval function ) Overview
 <details>
 <summary>Click Here </summary>
 
@@ -518,6 +518,23 @@ p4.textContent = location.pathname;
 //      console.log("hi");
 //  }, 6000)
 
+```
 </details>
+
+## Class 28(ES6 variable function declaration  ) Overview
+<details>
+<summary>Click Here </summary>
+
+`javascript `
+```javascript
+ //  setTimeout(() => {
+//      console.log("hi");
+//  }, 6000)
+
+```
+</details>
+
+
+
 
 
