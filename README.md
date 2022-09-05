@@ -521,6 +521,7 @@ p4.textContent = location.pathname;
 ```
 </details>
 
+
 ## Class 28(ES6 variable function declaration  ) Overview
 <details>
 <summary>Click Here </summary>
@@ -534,6 +535,16 @@ p4.textContent = location.pathname;
 ```
 </details>
 
+## Class 29(ES6 object literals) Overview
+<details>
+<summary>Click Here </summary>
+
+`javascript `
+```javascript
+
+
+```
+</details>
 
 
 
