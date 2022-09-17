@@ -574,6 +574,16 @@ for (let x in student) {
 ```
 </details>
 
+## Class 31(ES6 for in and for of) Overview
+<details>
+<summary>Click Here </summary>
+
+`javascript `
+```javascript
+
+```
+</details>
+
 
 
 
