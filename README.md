@@ -584,6 +584,16 @@ for (let x in student) {
 ```
 </details>
 
+## Class 32(Map and Filter function) Overview
+<details>
+<summary>Click Here </summary>
+
+`javascript `
+```javascript
+
+```
+</details>
+
 
 
 
