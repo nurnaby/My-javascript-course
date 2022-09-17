@@ -594,6 +594,23 @@ for (let x in student) {
 ```
 </details>
 
+## Class 33(Arrow funcitoin) Overview
+<details>
+<summary>Click Here </summary>
+
+
+`javascript `
+```javascript
+//normal function
+hello = function() {
+  return "Hello World!";
+}
+//Arrow Functions Return
+hello = () => "Hello World!";
+
+```
+</details>
+
 
 
 
